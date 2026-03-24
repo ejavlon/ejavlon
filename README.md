@@ -43,6 +43,8 @@
 <p align="left">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=ejavlon&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Javlonbek's GitHub Stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejavlon&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
+  <br>
+  <sub><i>Note: This stats only reflect contributions to <b>public</b> repositories.</i></sub>
 </p>
 
 ---
