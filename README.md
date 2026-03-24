@@ -14,7 +14,7 @@
 * 💻 I’m focusing on **Java Core/EE, Spring Boot, Security**, and **Scalable Architecture**.
 * 🖥️ I have experience in building **Desktop Applications** with **C#, JavaFX**, and **Go + Wails**.
 * 🎓 I hold a Bachelor's degree in **Applied Mathematics** from the National University of Uzbekistan.
-* 🚀 Check out my technical articles at [javlon.blog](https://javlon.blog) or just **Google** my name.
+* 🚀 Check out my technical articles at [javlon.blog](https://javlon.blog).
 
 ---
 
