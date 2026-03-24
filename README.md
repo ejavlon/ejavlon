@@ -53,4 +53,4 @@
 [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://javlon.blog)
 
 ---
-*“Passionate about clean code and solving complex technical problems.”*
+<p align="center"><i>“Passionate about clean code and solving complex technical problems.”</i></p>
