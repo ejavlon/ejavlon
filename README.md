@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="./header-banner.jpg" alt="Javlonbek Ergashev Banner" width="100%">
+  <img src="./header.png" alt="Javlonbek Ergashev Banner" width="100%">
 </div>
 
 ---
