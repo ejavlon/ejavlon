@@ -8,7 +8,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 * 💼 I’m currently working as a **Software Engineer** at Uychi IT school.
 * 💻 I’m focusing on **Java Core/EE, Spring Boot, Security**, and **Scalable Architecture**.
@@ -18,7 +18,7 @@
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 | Category | Tools & Technologies |
 | :--- | :--- |
@@ -30,7 +30,7 @@
 
 ---
 
-### 🚀 Projects & Experience
+### Projects & Experience
 
 * **Technical Engineer @ UNICON-SOFT** — Providing technical support for enterprise information systems developed by Unicon-Soft.
 * **Backend Mentor & Developer @ UYCHI IT SCHOOL**
@@ -39,7 +39,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ejavlon&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Javlonbek's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejavlon&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
@@ -47,7 +47,7 @@
 
 ---
 
-### 📫 Connect with me:
+### Connect with me:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/ejavlon)
 [<img src="https://img.shields.io/badge/telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/ejavlon)
 [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://javlon.blog)
