@@ -10,11 +10,11 @@
 
 ### 👨‍💻 About Me
 
-* 💼 I’m currently working as a **Software Engineer** at [UNICON-SOFT](https://unicon-soft.uz).
+* 💼 I’m currently working as a **Software Engineer** at Uychi IT school.
 * 💻 I’m focusing on **Java Core/EE, Spring Boot, Security**, and **Scalable Architecture**.
 * 🖥️ I have experience in building **Desktop Applications** with **C#, JavaFX**, and **Go + Wails**.
 * 🎓 I hold a Bachelor's degree in **Applied Mathematics** from the National University of Uzbekistan.
-* 🚀 Check out my technical articles at [ejavlon.uz](https://ejavlon.uz) or just **Google** my name.
+* 🚀 Check out my technical articles at [javlon.blog](https://javlon.blog) or just **Google** my name.
 
 ---
 
@@ -25,15 +25,15 @@
 | **Backend** | `Java Core/EE`, `Spring Boot`, `Spring Security`, `Spring Data JPA`, `RESTful APIs` |
 | **Frontend** | `React.js`, `JavaScript`, `Tailwind CSS`, `Material UI`, `SASS`, `HTML5/CSS3` |
 | **Database** | `PostgreSQL`, `JDBC`, `Hibernate` |
-| **DevOps & Tools** | `Docker`, `AWS EC2`, `Nginx`, `Linux (Ubuntu, ZorinOS)`, `Git`, `Maven`, `Postman` |
+| **DevOps & Tools** | `Docker`, `AWS EC2`, `Nginx`, `Linux (Ubuntu, ZorinOS, Mint)`, `Git`, `Maven`, `Postman` |
 | **Desktop** | `C# (WinForms)`, `JavaFX`, `Java Swing`, `Go + Wails` |
 
 ---
 
 ### 🚀 Projects & Experience
 
-* **Technical Engineer @ UNICON-SOFT** — Ensuring high availability for enterprise systems, analyzing logs, and collaborating on system stability.
-* **Backend Mentor & Developer @ UYCHI IT SCHOOL** — Led the development of the official school website using **Docusaurus** and **Spring Boot**.
+* **Technical Engineer @ UNICON-SOFT** — Providing technical support for enterprise information systems developed by Unicon-Soft.
+* **Backend Mentor & Developer @ UYCHI IT SCHOOL**
 * **Educational Impact** — Mentored students in **OOP, Databases, and API design**, sharing deep-dive technical knowledge.
 * **Custom Solutions** — Developed specialized software including Telegram bots and desktop tools for private projects.
 
