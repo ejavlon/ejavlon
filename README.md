@@ -2,14 +2,13 @@
   <img src="./header-banner.jpg" alt="Javlonbek Ergashev Banner" width="100%">
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ejavlon&label=Profile%20views&color=0e75b6&style=flat-square" alt="satnaing" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=08CE90&center=true&vCenter=true&width=435&lines=Hello+everyone!!!;I+am+Javlonbek+Ergashev;Software+Engineer;Java+Backend+Developer" alt="Typing SVG" />
+</p>
 
-# Hi there, I'm Javlonbek Ergashev 👋
-### Software Engineer | Java Backend Developer
 
 ---
 
-### 👨‍💻 About Me
 I am a result-oriented **Software Engineer** with over 3 years of experience in the IT industry. My core expertise lies in building robust, scalable backend systems using **Java** and the **Spring Ecosystem**. 
 
 * 🔭 **Currently working at:** UNICON-SOFT as a Software Engineer.
