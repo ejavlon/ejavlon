@@ -2,6 +2,8 @@
   <img src="./header-banner.jpg" alt="Javlonbek Ergashev Banner" width="100%">
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ejavlon&label=Profile%20views&color=0e75b6&style=flat-square" alt="satnaing" /></p>
+
 # Hi there, I'm Javlonbek Ergashev 👋
 ### Software Engineer | Java Backend Developer
 
